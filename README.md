@@ -1,15 +1,15 @@
-<h1 align="center">Hi 🙋‍♂️, I'm Tomás Costabel</h1>
-<h3 align="center">A passionate Full-Stack Developer from Argentina</h3>
+<h1 align="center">Hola 🙋‍♂️, Soy Tomás Costabel</h1>
+<h3 align="center">Un apasionado desarrollador Full-Stack de Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomcostabel&label=Profile%20views&color=0e75b6&style=flat" alt="tomcostabel" /> </p>
 
--   🍂 I’m currently learning **PERN Stack**
+-   🍂 Actualmente estoy aprendiendo **PERN Stack**
 
--   📫 How to reach me **imtomascostabel@gmail.com**
+-   📫 Cómo llegar a mi **imtomascostabel@gmail.com**
 
--   ⚡ Fun fact, **I'm like to play basketball and read about the fantasy genre**
+-   ⚡ Datos Curiosos, **Me gusta jugar al basketball y leer sobre el género de fantasía.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conectate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tomas-costabel-971a93233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomas-costabel-971a93233" height="30" width="40" /></a>
 </p>

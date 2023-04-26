@@ -5,7 +5,7 @@
 
 -   🍂 Actualmente estoy aprendiendo **PERN Stack**
 
--   📫 Cómo llegar a mi **imtomascostabel@gmail.com**
+-   📫 Cómo llegar a mi: **imtomascostabel@gmail.com**
 
 -   ⚡ Datos Curiosos, **Me gusta jugar al basketball y leer sobre el género de fantasía.**
 

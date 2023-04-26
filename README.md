@@ -7,7 +7,7 @@
 
 -   📫 Cómo llegar a mi: **imtomascostabel@gmail.com**
 
--   ⚡ Datos Curiosos, **Me gusta jugar al basketball y leer sobre el género de fantasía.**
+-   ⚡ Datos Curiosos, **Me gusta jugar al basketball, leer sobre el género de fantasía y analizar/operar el mercado de acciones .**
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
